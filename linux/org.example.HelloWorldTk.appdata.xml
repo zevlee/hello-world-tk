@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>org.example.HelloWorldTk</id>
+  
+  <name>Hello World</name>
+  <summary>Hello World Tk</summary>
+  
+  <metadata_license>MIT</metadata_license>
+  <project_license>MIT</project_license>
+  
+  <description>
+    <p>
+      Hello World Tk
+    </p>
+  </description>
+  
+  <launchable type="desktop-id">org.example.HelloWorldTk.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://publicdomainvectors.org/photos/kawaii_earth.png</image>
+    </screenshot>
+  </screenshots>
+</component>
