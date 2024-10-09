@@ -10,7 +10,10 @@
   
   <description>
     <p>
-      Hello World Tk
+      Hello World Tk is an easily configurable build system for distributing Python-based Tk applications. This is an example repository for PyDeployment, which is used to easily build applications for Windows, macOS, and Linux.
+    </p>
+    <p>
+      Check out the workflow file to get an idea of how to use GitHub workflows to automate creating releases and building binaries.
     </p>
   </description>
   
@@ -20,4 +23,7 @@
       <image>https://publicdomainvectors.org/photos/kawaii_earth.png</image>
     </screenshot>
   </screenshots>
+  <developer_name>Author Name</developer_name>
+  <url type="homepage">https://github.com/zevlee/hello-world-tk</url>
+  <url type="bugtracker">https://github.com/zevlee/hello-world-tk/issues</url>
 </component>
